@@ -26,7 +26,7 @@ Ce projet constitue une excellente introduction au framework Django.
 
 ```bash
 git clone https://github.com/John-Lion01/Projet_Django.git
-cd Projet_Django
+cd interface_backend
 ```
 
 ### 2. Créer un environnement virtuel
